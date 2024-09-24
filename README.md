@@ -10,7 +10,6 @@
 # Built With 
  - ReactJS;
  - React Hooks;
- - Css;
 
 # Author
  - Github: https://github.com/Andrea7701;
